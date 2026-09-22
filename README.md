@@ -7,7 +7,7 @@ run on my own — about 50,000 lines of Dart serving iOS, Android and web from o
 Flutter codebase, with 37 Cloud Functions and 933 lines of Firestore rules behind
 it. I spent years working in dealerships before I wrote a line of software for one.
 
-Looking for a remote role. Portfolio and résumé at **[waltermarshall.dev](https://waltermarshall.dev)** · **elatclash@gmail.com**
+Looking for a remote role. Portfolio and résumé at **[waltermarshall.dev](https://waltermarshall.dev)** · **elatjobs@gmail.com**
 
 ---
 

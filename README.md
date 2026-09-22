@@ -15,11 +15,11 @@ Looking for a remote role. **elatclash@gmail.com**
 
 | | | |
 |---|---|---|
+| **[Hindsight](https://github.com/ElatDev/Hindsight)** | TypeScript | Free, offline chess game review. Stockfish grades every move, and it explains mistakes by finding the actual pin, fork or hanging piece. v0.1.0 has installers for Windows, macOS and Linux; CI runs 581 tests on all three. |
 | **[paeth](https://github.com/ElatDev/paeth)** | Rust | A PNG decoder written from the spec. Decodes all 162 valid PngSuite images pixel-for-pixel identically to an independent decoder, and rejects all 14 corrupt ones. 151 tests. |
 | **[loupe](https://github.com/ElatDev/loupe)** | C | Read-only PE and ELF inspector. Every offset in a binary is attacker-controlled, so every read goes through one bounds-checked accessor. Parses all 4,264 binaries in System32 under ASan, UBSan and LeakSanitizer with no crashes and no leaks. |
 | **[unspool](https://github.com/ElatDev/unspool)** | Python | A pcapng parser and protocol decoder. Checked frame by frame against `tshark` across all 562 public Wireshark sample captures — 1,290,282 packets. |
 | **[vinspect](https://github.com/ElatDev/vinspect)** | Go | Validates and decodes VINs offline. Verified against 6,516 real VINs from NHTSA crash-test records. |
-| **[Hindsight](https://github.com/ElatDev/Hindsight)** | TypeScript | Offline chess review — drives Stockfish over a PGN and writes back an annotated game. No account, nothing leaves your machine. |
 
 ### Things I can't show you
 
